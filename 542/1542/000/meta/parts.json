@@ -1,0 +1,42 @@
+[
+    {
+        "pageCount": 5,
+        "firstPageId": 1,
+        "lastPageId": 5,
+        "firstPage": null,
+        "lastPage": 4,
+        "partName": "تقديم",
+        "partFolderName": "تقديم",
+        "partPath": "5\/542\/1542\/تقديم"
+    },
+    {
+        "pageCount": 435,
+        "firstPageId": 6,
+        "lastPageId": 440,
+        "firstPage": 1,
+        "lastPage": 450,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "5\/542\/1542\/001"
+    },
+    {
+        "pageCount": 453,
+        "firstPageId": 441,
+        "lastPageId": 893,
+        "firstPage": null,
+        "lastPage": 902,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "5\/542\/1542\/002"
+    },
+    {
+        "pageCount": 323,
+        "firstPageId": 894,
+        "lastPageId": 1216,
+        "firstPage": null,
+        "lastPage": 1346,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "5\/542\/1542\/003"
+    }
+]
