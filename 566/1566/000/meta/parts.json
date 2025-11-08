@@ -1,0 +1,52 @@
+[
+    {
+        "pageCount": 481,
+        "firstPageId": 1,
+        "lastPageId": 481,
+        "firstPage": 33,
+        "lastPage": 513,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "566\/1566\/001"
+    },
+    {
+        "pageCount": 459,
+        "firstPageId": 482,
+        "lastPageId": 940,
+        "firstPage": 5,
+        "lastPage": 473,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "566\/1566\/002"
+    },
+    {
+        "pageCount": 475,
+        "firstPageId": 941,
+        "lastPageId": 1415,
+        "firstPage": 5,
+        "lastPage": 479,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "566\/1566\/003"
+    },
+    {
+        "pageCount": 494,
+        "firstPageId": 1416,
+        "lastPageId": 1909,
+        "firstPage": 5,
+        "lastPage": 498,
+        "partName": "4",
+        "partFolderName": "004",
+        "partPath": "566\/1566\/004"
+    },
+    {
+        "pageCount": 231,
+        "firstPageId": 1910,
+        "lastPageId": 2140,
+        "firstPage": 5,
+        "lastPage": 235,
+        "partName": "5",
+        "partFolderName": "005",
+        "partPath": "566\/1566\/005"
+    }
+]
