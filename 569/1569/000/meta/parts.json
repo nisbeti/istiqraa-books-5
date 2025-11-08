@@ -1,0 +1,82 @@
+[
+    {
+        "pageCount": 140,
+        "firstPageId": 1,
+        "lastPageId": 140,
+        "firstPage": null,
+        "lastPage": 143,
+        "partName": "المقدمة",
+        "partFolderName": "المقدمة",
+        "partPath": "5\/569\/1569\/المقدمة"
+    },
+    {
+        "pageCount": 384,
+        "firstPageId": 141,
+        "lastPageId": 524,
+        "firstPage": 5,
+        "lastPage": 391,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "5\/569\/1569\/001"
+    },
+    {
+        "pageCount": 579,
+        "firstPageId": 525,
+        "lastPageId": 1103,
+        "firstPage": 3,
+        "lastPage": 582,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "5\/569\/1569\/002"
+    },
+    {
+        "pageCount": 461,
+        "firstPageId": 1104,
+        "lastPageId": 1564,
+        "firstPage": 5,
+        "lastPage": 467,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "5\/569\/1569\/003"
+    },
+    {
+        "pageCount": 409,
+        "firstPageId": 1565,
+        "lastPageId": 1973,
+        "firstPage": 3,
+        "lastPage": 412,
+        "partName": "4",
+        "partFolderName": "004",
+        "partPath": "5\/569\/1569\/004"
+    },
+    {
+        "pageCount": 497,
+        "firstPageId": 1974,
+        "lastPageId": 2470,
+        "firstPage": 3,
+        "lastPage": 500,
+        "partName": "5",
+        "partFolderName": "005",
+        "partPath": "5\/569\/1569\/005"
+    },
+    {
+        "pageCount": 547,
+        "firstPageId": 2471,
+        "lastPageId": 3017,
+        "firstPage": 3,
+        "lastPage": 553,
+        "partName": "6",
+        "partFolderName": "006",
+        "partPath": "5\/569\/1569\/006"
+    },
+    {
+        "pageCount": 285,
+        "firstPageId": 3018,
+        "lastPageId": 3302,
+        "firstPage": 5,
+        "lastPage": 291,
+        "partName": "7",
+        "partFolderName": "007",
+        "partPath": "5\/569\/1569\/007"
+    }
+]
