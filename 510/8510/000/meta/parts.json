@@ -1,0 +1,172 @@
+[
+    {
+        "pageCount": 10,
+        "firstPageId": 1,
+        "lastPageId": 10,
+        "firstPage": 1,
+        "lastPage": 10,
+        "partName": "مقدمة 1 أ",
+        "partFolderName": "مقدمة 1 أ",
+        "partPath": "5\/510\/8510\/مقدمة 1 أ"
+    },
+    {
+        "pageCount": 593,
+        "firstPageId": 11,
+        "lastPageId": 603,
+        "firstPage": 3,
+        "lastPage": 595,
+        "partName": "1 أ",
+        "partFolderName": "1 أ",
+        "partPath": "5\/510\/8510\/1 أ"
+    },
+    {
+        "pageCount": 9,
+        "firstPageId": 604,
+        "lastPageId": 612,
+        "firstPage": 1,
+        "lastPage": 12,
+        "partName": "مقدمة 1 ب",
+        "partFolderName": "مقدمة 1 ب",
+        "partPath": "5\/510\/8510\/مقدمة 1 ب"
+    },
+    {
+        "pageCount": 826,
+        "firstPageId": 613,
+        "lastPageId": 1438,
+        "firstPage": 3,
+        "lastPage": 828,
+        "partName": "1 ب",
+        "partFolderName": "1 ب",
+        "partPath": "5\/510\/8510\/1 ب"
+    },
+    {
+        "pageCount": 5,
+        "firstPageId": 1439,
+        "lastPageId": 1443,
+        "firstPage": 1,
+        "lastPage": 8,
+        "partName": "مقدمة 2",
+        "partFolderName": "مقدمة 2",
+        "partPath": "5\/510\/8510\/مقدمة 2"
+    },
+    {
+        "pageCount": 474,
+        "firstPageId": 1444,
+        "lastPageId": 1917,
+        "firstPage": 3,
+        "lastPage": 476,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "5\/510\/8510\/002"
+    },
+    {
+        "pageCount": 3,
+        "firstPageId": 1918,
+        "lastPageId": 1920,
+        "firstPage": 1,
+        "lastPage": 6,
+        "partName": "مقدمة 3",
+        "partFolderName": "مقدمة 3",
+        "partPath": "5\/510\/8510\/مقدمة 3"
+    },
+    {
+        "pageCount": 475,
+        "firstPageId": 1921,
+        "lastPageId": 2395,
+        "firstPage": 3,
+        "lastPage": 477,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "5\/510\/8510\/003"
+    },
+    {
+        "pageCount": 5,
+        "firstPageId": 2396,
+        "lastPageId": 2400,
+        "firstPage": 1,
+        "lastPage": 10,
+        "partName": "مقدمة 4",
+        "partFolderName": "مقدمة 4",
+        "partPath": "5\/510\/8510\/مقدمة 4"
+    },
+    {
+        "pageCount": 490,
+        "firstPageId": 2401,
+        "lastPageId": 2890,
+        "firstPage": 2,
+        "lastPage": 491,
+        "partName": "4",
+        "partFolderName": "004",
+        "partPath": "5\/510\/8510\/004"
+    },
+    {
+        "pageCount": 6,
+        "firstPageId": 2891,
+        "lastPageId": 2896,
+        "firstPage": 1,
+        "lastPage": 9,
+        "partName": "مقدمة 5",
+        "partFolderName": "مقدمة 5",
+        "partPath": "5\/510\/8510\/مقدمة 5"
+    },
+    {
+        "pageCount": 492,
+        "firstPageId": 2897,
+        "lastPageId": 3388,
+        "firstPage": 3,
+        "lastPage": 494,
+        "partName": "5",
+        "partFolderName": "005",
+        "partPath": "5\/510\/8510\/005"
+    },
+    {
+        "pageCount": 10,
+        "firstPageId": 3389,
+        "lastPageId": 3398,
+        "firstPage": 1,
+        "lastPage": 15,
+        "partName": "فهارس 1 أ",
+        "partFolderName": "فهارس 1 أ",
+        "partPath": "5\/510\/8510\/فهارس 1 أ"
+    },
+    {
+        "pageCount": 4,
+        "firstPageId": 3399,
+        "lastPageId": 3402,
+        "firstPage": 1,
+        "lastPage": 5,
+        "partName": "فهارس 1 ب",
+        "partFolderName": "فهارس 1 ب",
+        "partPath": "5\/510\/8510\/فهارس 1 ب"
+    },
+    {
+        "pageCount": 3,
+        "firstPageId": 3403,
+        "lastPageId": 3405,
+        "firstPage": 1,
+        "lastPage": 6,
+        "partName": "فهارس 2",
+        "partFolderName": "فهارس 2",
+        "partPath": "5\/510\/8510\/فهارس 2"
+    },
+    {
+        "pageCount": 3,
+        "firstPageId": 3406,
+        "lastPageId": 3408,
+        "firstPage": 1,
+        "lastPage": 6,
+        "partName": "فهارس 3",
+        "partFolderName": "فهارس 3",
+        "partPath": "5\/510\/8510\/فهارس 3"
+    },
+    {
+        "pageCount": 4,
+        "firstPageId": 3409,
+        "lastPageId": 3412,
+        "firstPage": 1,
+        "lastPage": 5,
+        "partName": "فهارس 4",
+        "partFolderName": "فهارس 4",
+        "partPath": "5\/510\/8510\/فهارس 4"
+    }
+]
