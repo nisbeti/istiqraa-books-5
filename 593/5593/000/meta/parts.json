@@ -1,0 +1,102 @@
+[
+    {
+        "pageCount": 428,
+        "firstPageId": 1,
+        "lastPageId": 428,
+        "firstPage": null,
+        "lastPage": 432,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "593\/5593\/001"
+    },
+    {
+        "pageCount": 479,
+        "firstPageId": 429,
+        "lastPageId": 907,
+        "firstPage": 5,
+        "lastPage": 487,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "593\/5593\/002"
+    },
+    {
+        "pageCount": 570,
+        "firstPageId": 908,
+        "lastPageId": 1477,
+        "firstPage": 5,
+        "lastPage": 578,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "593\/5593\/003"
+    },
+    {
+        "pageCount": 648,
+        "firstPageId": 1478,
+        "lastPageId": 2125,
+        "firstPage": 5,
+        "lastPage": 653,
+        "partName": "4",
+        "partFolderName": "004",
+        "partPath": "593\/5593\/004"
+    },
+    {
+        "pageCount": 677,
+        "firstPageId": 2126,
+        "lastPageId": 2802,
+        "firstPage": 5,
+        "lastPage": 684,
+        "partName": "5",
+        "partFolderName": "005",
+        "partPath": "593\/5593\/005"
+    },
+    {
+        "pageCount": 346,
+        "firstPageId": 2803,
+        "lastPageId": 3148,
+        "firstPage": 5,
+        "lastPage": 350,
+        "partName": "6",
+        "partFolderName": "006",
+        "partPath": "593\/5593\/006"
+    },
+    {
+        "pageCount": 493,
+        "firstPageId": 3149,
+        "lastPageId": 3641,
+        "firstPage": 5,
+        "lastPage": 498,
+        "partName": "7",
+        "partFolderName": "007",
+        "partPath": "593\/5593\/007"
+    },
+    {
+        "pageCount": 540,
+        "firstPageId": 3642,
+        "lastPageId": 4181,
+        "firstPage": 5,
+        "lastPage": 544,
+        "partName": "8",
+        "partFolderName": "008",
+        "partPath": "593\/5593\/008"
+    },
+    {
+        "pageCount": 427,
+        "firstPageId": 4182,
+        "lastPageId": 4608,
+        "firstPage": 5,
+        "lastPage": 437,
+        "partName": "9",
+        "partFolderName": "009",
+        "partPath": "593\/5593\/009"
+    },
+    {
+        "pageCount": 687,
+        "firstPageId": 4609,
+        "lastPageId": 5295,
+        "firstPage": 5,
+        "lastPage": 699,
+        "partName": "10",
+        "partFolderName": "010",
+        "partPath": "593\/5593\/010"
+    }
+]
