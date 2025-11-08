@@ -1,0 +1,102 @@
+[
+    {
+        "pageCount": 2,
+        "firstPageId": 1,
+        "lastPageId": 2,
+        "firstPage": 15,
+        "lastPage": 16,
+        "partName": "تصدير",
+        "partFolderName": "تصدير",
+        "partPath": "5\/502\/8502\/تصدير"
+    },
+    {
+        "pageCount": 125,
+        "firstPageId": 3,
+        "lastPageId": 127,
+        "firstPage": 1,
+        "lastPage": 125,
+        "partName": "مقدمة 1",
+        "partFolderName": "مقدمة 1",
+        "partPath": "5\/502\/8502\/مقدمة 1"
+    },
+    {
+        "pageCount": 767,
+        "firstPageId": 128,
+        "lastPageId": 894,
+        "firstPage": 3,
+        "lastPage": 772,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "5\/502\/8502\/001"
+    },
+    {
+        "pageCount": 58,
+        "firstPageId": 895,
+        "lastPageId": 952,
+        "firstPage": 15,
+        "lastPage": 100,
+        "partName": "مقدمة 2",
+        "partFolderName": "مقدمة 2",
+        "partPath": "5\/502\/8502\/مقدمة 2"
+    },
+    {
+        "pageCount": 600,
+        "firstPageId": 953,
+        "lastPageId": 1552,
+        "firstPage": 3,
+        "lastPage": 614,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "5\/502\/8502\/002"
+    },
+    {
+        "pageCount": 66,
+        "firstPageId": 1553,
+        "lastPageId": 1618,
+        "firstPage": 33,
+        "lastPage": 144,
+        "partName": "مقدمة 3",
+        "partFolderName": "مقدمة 3",
+        "partPath": "5\/502\/8502\/مقدمة 3"
+    },
+    {
+        "pageCount": 759,
+        "firstPageId": 1619,
+        "lastPageId": 2377,
+        "firstPage": 3,
+        "lastPage": 788,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "5\/502\/8502\/003"
+    },
+    {
+        "pageCount": 93,
+        "firstPageId": 2378,
+        "lastPageId": 2470,
+        "firstPage": 31,
+        "lastPage": 152,
+        "partName": "مقدمة 4",
+        "partFolderName": "مقدمة 4",
+        "partPath": "5\/502\/8502\/مقدمة 4"
+    },
+    {
+        "pageCount": 950,
+        "firstPageId": 2471,
+        "lastPageId": 3420,
+        "firstPage": 3,
+        "lastPage": 1089,
+        "partName": "4",
+        "partFolderName": "004",
+        "partPath": "5\/502\/8502\/004"
+    },
+    {
+        "pageCount": 140,
+        "firstPageId": 3421,
+        "lastPageId": 3560,
+        "firstPage": 9,
+        "lastPage": 189,
+        "partName": "5",
+        "partFolderName": "005",
+        "partPath": "5\/502\/8502\/005"
+    }
+]
