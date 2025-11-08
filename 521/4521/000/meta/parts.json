@@ -1,0 +1,22 @@
+[
+    {
+        "pageCount": 10,
+        "firstPageId": 1,
+        "lastPageId": 10,
+        "firstPage": 1,
+        "lastPage": 10,
+        "partName": "تمهيد",
+        "partFolderName": "تمهيد",
+        "partPath": "521\/4521\/تمهيد"
+    },
+    {
+        "pageCount": 347,
+        "firstPageId": 11,
+        "lastPageId": 357,
+        "firstPage": 3,
+        "lastPage": 354,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "521\/4521\/001"
+    }
+]
