@@ -1,0 +1,28 @@
+<div class="nass margin-top-10"> <p><span id="p1" class="anchor"></span><span class="c5">حال الفرائض مع فروضها:</span>-<a href="#p1" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p2"></span><span class="c5">تنقسم الفرائض بالنسبة إلى فروضها إلى ثلاثة أقسام:</span>-<a href="#p2" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p3"></span>١.<span class="c5"> عادلة:</span><a href="#p3" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p4"></span>وهى إذا جمعت فروضها ساوت أصل المسألة يقال لها عادلة.<a href="#p4" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p5"></span>٢.<span class="c5"> ناقصة:</span><a href="#p5" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p6"></span>وهى إذا جمعت فروضها نقصت عن أصلها.<a href="#p6" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p7"></span>٣.<span class="c5"> عائلة:</span><a href="#p7" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p8"></span>وهى إذا جمعت فروضها زادت عن أصل المسألة.<a href="#p8" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p9"></span>وأصول المسائل باعتبار العول وقسيمته <span class="c2">(العدل والنقص)</span> .<a href="#p9" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p10"></span><span class="c5">تنقسم إلى أربعة أقسام:</span>-<a href="#p10" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p11"></span>١- قسم يتصور فية الأمور الثلاثة <span class="c2">(العدل والنقص والعول)</span> وهو أصل ٦ فقط يتصور فيه الأمور الثلاثة.<a href="#p11" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p12"></span>٢- قسم لا يكون إلا ناقصاً وهما أصلان <span class="c2">(٨، ٤)</span> لا يمكن أن تساوى الفروض أصل المسألة ولا يزيد عليها.<a href="#p12" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p13"></span>٣- يكون عادلاً وناقصاً وهما أصلان <span class="c2">(٢، ٣)</span><a href="#p13" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p14"></span>٤- يكون ناقصاً وعائلاً وهما أصلان <span class="c2">(١٢، ٢٤)</span><a href="#p14" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p15"></span><span class="c5">وعليه يمكن أن يقال:</span>-<a href="#p15" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p16"></span>١. أصل المسألة يكون عادلاً إذا كان فى هذه الأصول الثلاثة <span class="c2">(٦، ٢، ٣)</span> .<a href="#p16" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p17"></span>٢. يمكن أن يكون أصل المسألة ناقصاً ويتصور ذلك فى جميع الأصول ولكن يتعين النقص ويلزم فى أصلين وهما <span class="c2">(٤، ٨)</span> .<a href="#p17" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p18"></span>٣. الأصول العائلة ويمكن أن يكون الأصل عائلاً فى ثلاثة أصول وهى <span class="c2">(٦، ١٢، ٢٤)</span><a href="#p18" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p19"></span><span class="c5">ضابط الأصول التى تعول:</span>-<a href="#p19" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p20"></span><span class="c5">لذلك ضابطان:</span>-<a href="#p20" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p21"></span><span class="c5">الأول:</span>- كل ماله ١/٦ صحيح من الأصول السبعة يعول وهى ٣ أعداد وهى <span class="c2">(٦، ١٢، ٢٤)</span><a href="#p21" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p22"></span><span class="c5">الثانى:</span>- كل ما كان عدداً تاماً من الأصول يعول، والعدد التام هو إذا جمعت أجزائه الصحيحة غير المكررة تساويه أو زادت عليه يقال له عدد صحيح يعول.<a href="#p22" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p23"></span><span class="c5">الورثة الذين يدخل عليهم العول ويقال لهم:</span>-<a href="#p23" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p24"></span><span class="c5">لا يدخل العول إلا على أربعة واثنين من الرجال وهم:</span>-<a href="#p24" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p25"></span>الأب والجد والزوج والأخ لأم<a href="#p25" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p26"></span>أما بالنسبة للنساء فيمكن أن يدخل العول على جميع النساء إلا واحدة من العشرة وهى المعنفة وهن تسع نسوة.<a href="#p26" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p27"></span><span class="c5">متى وقع العول:</span>-<a href="#p27" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p28"></span>لم يقع العول فى زمن النبي ولا فى زمن أبى بكر، إنما وقع فى زمن عمر وهذا ثابت بالأسانيد الصحيحة.<a href="#p28" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p> </div>
