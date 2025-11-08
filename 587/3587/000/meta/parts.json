@@ -1,0 +1,22 @@
+[
+    {
+        "pageCount": 395,
+        "firstPageId": 1,
+        "lastPageId": 395,
+        "firstPage": 1,
+        "lastPage": 543,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "5\/587\/3587\/001"
+    },
+    {
+        "pageCount": 293,
+        "firstPageId": 396,
+        "lastPageId": 688,
+        "firstPage": 1,
+        "lastPage": 315,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "5\/587\/3587\/002"
+    }
+]
